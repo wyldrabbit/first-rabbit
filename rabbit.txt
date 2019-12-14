@@ -1,0 +1,16 @@
+
+
+
+Welcome to my first file on Github ever. This file will be here for reference purpose.
+
+My interest areas include:
+HTML
+CSS
+PHP
+JavaScript
+Python
+Node.js
+React.js
+...and anything that comes inbetween.
+
+I know it's kind'a much for a beginner,  but then, it's my longterm goal. Watch out for  me; you'll say I told you so.
